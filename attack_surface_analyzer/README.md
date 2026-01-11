@@ -1,70 +1,81 @@
 # 🔥 Web Application Attack Surface Analyzer & Exploit Engine
-
 > Automated Web Application Security Scanner with Attack Surface Mapping, Exploit Detection, and Professional Pentest Reporting
 
-![Security](https://img.shields.io/badge/Security-Offensive-red)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Offensive-red" />
+  <img src="https://img.shields.io/badge/Python-3.x-blue" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-green" />
+</p>
 
 ---
 
 ## 🛡 What is this?
 
-This project is a **full-stack automated web application penetration-testing engine**.
+**Web Application Attack Surface Analyzer & Exploit Engine** is a **full-stack automated penetration-testing framework** designed to behave like a real **red-team operator**.
 
-It does not just crawl pages — it:
-- Discovers the application’s **attack surface**
-- Finds **real exploitable vulnerabilities**
-- Proves them using payload injection
-- Classifies their **risk**
-- And generates **professional pentest reports** (HTML & PDF)
+It doesn’t just crawl websites — it **thinks like an attacker**.
 
-This simulates how real **red-teamers and bug-bounty hunters** analyze targets.
+It automatically:
+- Maps everything an attacker can reach  
+- Discovers user-controlled inputs  
+- Actively exploits vulnerabilities  
+- Scores risk based on impact  
+- Generates professional security reports  
+
+This is the same workflow used by **pentesters, red-teams, and bug bounty hunters**.
 
 ---
 
-## 🚀 What it detects
+## 💣 What this tool actually does
 
-| Category | Supported |
-|--------|-----------|
-| SQL Injection (SQLi) | ✅ |
+| Capability | Status |
+|----------|--------|
+| Endpoint discovery | ✅ |
+| JavaScript API mining | ✅ |
+| Parameter fuzzing | ✅ |
+| SQL Injection | ✅ |
 | Cross-Site Scripting (XSS) | ✅ |
 | Broken Access Control (IDOR) | ✅ |
-| Hidden JavaScript endpoints | ✅ |
-| Parameter fuzzing | ✅ |
-| Risk scoring (LOW → CRITICAL) | ✅ |
 | Exploit proof | ✅ |
+| Risk scoring | ✅ |
 | HTML & PDF pentest reports | ✅ |
+| Multithreaded scanning | ✅ |
+
+This is not a crawler.  
+This is a **vulnerability exploitation engine**.
 
 ---
 
-## 🧠 System Architecture
+## 🧠 Attack Pipeline
 
-Target Website
-        |
-        v
+
+Target Web App
+│
+▼
 [ Endpoint Crawler ]
-        |
-        v
+│
+▼
 [ JavaScript Miner ]
-        |
-        v
+│
+▼
 [ Attack Surface Mapper ]
-        |
-        v
+│
+▼
 [ Parameter Fuzzer ]
-        |
-        v
+│
+▼
 [ Parameter Discovery ]
-        |
-        v
+│
+▼
 [ Exploit Engine (SQLi, XSS, IDOR) ]
-        |
-        v
+│
+▼
 [ Risk Engine ]
-        |
-        v
-[ HTML & PDF Pentest Report ]
+│
+▼
+[ HTML & PDF Pentest Reports ]
+
+Every vulnerability is backed by **real payloads and server responses**, not guesses.
 
 ## 🧠 How it works
 
@@ -152,6 +163,7 @@ This matches the format used by:
 - Pentest consulting firms  
 
 ---
+
 
 
 
