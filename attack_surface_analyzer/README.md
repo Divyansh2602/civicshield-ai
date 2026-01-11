@@ -7,6 +7,8 @@
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-green)
 
 ---
+<img width="527" height="282" alt="image" src="https://github.com/user-attachments/assets/2b7d9892-b19f-474d-8e32-52d0f36b44a1" />
+
 
 ## 🛡 What is this?
 
@@ -122,4 +124,5 @@ This matches the format used by:
 - Pentest consulting firms  
 
 ---
+
 
