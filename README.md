@@ -199,9 +199,6 @@ Risk levels
 
 ## 🧭 Roadmap
 
-```md
-## 🧭 Roadmap
-
 Planned enhancements for this engine include:
 
 - 🔐 Authenticated scanning (login & session handling)  
