@@ -173,14 +173,16 @@ This matches the format used by:
 ```bash
 pip install requests beautifulsoup4 reportlab
 
-Run the scanner
+2️⃣ Run the scanner
 python main.py <target_url>
 Example:
 python main.py https://hakhub.net
 
-View results
+3️⃣ View results
 report.html
 pentest_report.pdf
+
+```
 
 Open them in your browser or PDF viewer to see:
 
