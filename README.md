@@ -84,6 +84,8 @@ E --> H
 A --> F
 F --> H
 
+https://chatgpt.com/s/m_69a211bc83a48191a5928d2a5f3e745d
+
 📊 Dashboard Intelligence Flow
 
 sequenceDiagram
