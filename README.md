@@ -105,6 +105,9 @@ sequenceDiagram
     FastAPI-->>User: Render dashboard.html
     User->>ChartJS: Render charts
 
+<img width="2559" height="1152" alt="image" src="https://github.com/user-attachments/assets/f61b1d06-4143-4693-b836-c0d8214016dd" />
+
+
 ⚙️ Tech Stack
 
 Layer
@@ -150,6 +153,10 @@ Normalized to 0–100
 	•	Latest vulnerabilities
 	•	Dynamic risk score
 	•	Auto-refresh
+
+	<img width="1171" height="1033" alt="image" src="https://github.com/user-attachments/assets/02fd33bb-e7ca-4b27-b6ad-5ca0c3ef290d" />
+	<img width="1086" height="771" alt="image" src="https://github.com/user-attachments/assets/bded3bb5-ec7a-474f-a5f6-436a8319425b" />
+
 
 ✅ PDF Report Generator
 	•	Target summary
