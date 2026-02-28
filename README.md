@@ -34,7 +34,7 @@ CivicShield AI:
 Built for modern cyber defense.
 
 ⸻
-
+```
 🏗️ System Architecture
 flowchart TD
 
@@ -53,7 +53,8 @@ Database --> Dashboard
 Database --> ReportGenerator
 
 ReportGenerator --> PDFReport
-
+```
+```
 🧩 Internal Architecture
 
 flowchart LR
@@ -83,8 +84,9 @@ A --> E
 E --> H
 A --> F
 F --> H
+```
+![WhatsApp Image 2026-02-28 at 12 41 26](https://github.com/user-attachments/assets/d6869d39-ee2f-4572-a371-089626649cf5)
 
-https://chatgpt.com/s/m_69a211bc83a48191a5928d2a5f3e745d
 
 📊 Dashboard Intelligence Flow
 
