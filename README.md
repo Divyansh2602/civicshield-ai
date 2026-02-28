@@ -154,8 +154,8 @@ Normalized to 0–100
 	•	Dynamic risk score
 	•	Auto-refresh
 
-	<img width="1171" height="1033" alt="image" src="https://github.com/user-attachments/assets/02fd33bb-e7ca-4b27-b6ad-5ca0c3ef290d" />
-	<img width="1086" height="771" alt="image" src="https://github.com/user-attachments/assets/bded3bb5-ec7a-474f-a5f6-436a8319425b" />
+<img width="1171" height="1033" alt="image" src="https://github.com/user-attachments/assets/02fd33bb-e7ca-4b27-b6ad-5ca0c3ef290d" />
+<img width="1086" height="771" alt="image" src="https://github.com/user-attachments/assets/bded3bb5-ec7a-474f-a5f6-436a8319425b" />
 
 
 ✅ PDF Report Generator
