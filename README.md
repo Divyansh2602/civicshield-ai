@@ -224,7 +224,7 @@ GET
 Generate PDF report
 
 🧪 How to Run
-
+```
 git clone https://github.com/Divyansh2602/civicshield-ai.git
 cd civicshield-ai
 
@@ -236,7 +236,7 @@ pip install -r requirements.txt
 python -m uvicorn main:app --reload
 
 http://127.0.0.1:8000/dashboard
-
+```
 📈 Example Risk Output
 	•	Critical: 138
 	•	High: 378
