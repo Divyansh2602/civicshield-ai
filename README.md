@@ -156,7 +156,7 @@ Normalized to 0–100
 	•	Professional formatting
 
 ⸻
-'''
+```
 📂 Project Structure
 
 attack_surface_analyzer/
@@ -180,7 +180,7 @@ attack_surface_analyzer/
 ├── static/
 │
 └── README.md
-'''
+```
 🔐 API Endpoints
 
 Method
